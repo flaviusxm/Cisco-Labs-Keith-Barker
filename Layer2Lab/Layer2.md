@@ -440,4 +440,3 @@ show running-config
 
 afișează configurația curentă.
 
-Laboratorul demonstrează practic folosirea **VLAN-urilor, access ports, trunk ports, 802.1Q și Router-on-a-Stick**. eu asta vreau sa pun pe github ti se pare ok ?
